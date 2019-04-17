@@ -1,6 +1,6 @@
 owner=405760050154700800
 prefix=4
-game=The Killer
+game=💎The Killer💎
 stayinchannel=true
 songinstatus=true
 token=NTY4MjE4MjkzOTcwNjY1NDgz.XLe5TA.6pvITWYYosAVkysHq8mIu3LPAPw
